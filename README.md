@@ -9,3 +9,15 @@ To install the dependencies for this project, please run the following command i
 ```bash
 pip install -r requirements.txt
 ```
+Then 
+
+```bash
+Programme projet TER.ipynb
+```
+
+And at the end 
+
+```bash
+Prediction.ipynb
+```
+To see how is the prediction
