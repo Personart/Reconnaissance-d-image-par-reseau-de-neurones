@@ -1,4 +1,4 @@
-# Reconnaissance-d-image-par-reseau-de-neurones
+# image_recognition_with_cnn_Fr
 
 This repo contains the code to begin a workshop on this project.
 
